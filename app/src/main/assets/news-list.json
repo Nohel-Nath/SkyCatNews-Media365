@@ -1,0 +1,99 @@
+{
+  "title": "Sky Cat News",
+  "data": [
+    {
+      "id": "1",
+      "type": "story",
+      "headline": "Cat story headline",
+      "teaserText": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      "creationDate": "2025-09-06T04:27:00Z",
+      "modifiedDate": "2025-09-06T04:29:00Z",
+      "teaserImage": {
+        "_links": {
+          "url": {
+            "href": "https://i.postimg.cc/FzbMnQHf/download.jpg",
+            "templated": true,
+            "type": "image/jpeg"
+          }
+        },
+        "accessibilityText": "Image content description"
+      }
+    },
+    {
+      "id": "2",
+      "type": "story",
+      "headline": "Story Headline",
+      "teaserText": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      "creationDate": "2025-09-06T08:30:00Z",
+      "modifiedDate": "2020-11-19T00:00:00Z",
+      "teaserImage": {
+        "_links": {
+          "url": {
+            "href": "https://i.postimg.cc/fRRG5pnL/image.png",
+            "templated": true,
+            "type": "image/jpeg"
+          }
+        },
+        "accessibilityText": "Image content description"
+      }
+    },
+    {
+      "type": "advert",
+      "url": "advert/url"
+    },
+    {
+      "id": "3",
+      "type": "weblink",
+      "headline": "Weblink headline",
+      "weblinkUrl": "https://www.prothomalo.com/",
+      "creationDate": "2025-09-04T10:00:00Z",
+      "modifiedDate": "2020-11-19T00:00:00Z",
+      "teaserImage": {
+        "_links": {
+          "url": {
+            "href": "https://i.postimg.cc/L6N7qDYM/image.png",
+            "templated": true,
+            "type": "image/jpeg"
+          }
+        },
+        "accessibilityText": "Image content description"
+      }
+    },
+    {
+      "id": "4",
+      "type": "story",
+      "headline": "Story headline",
+      "teaserText": "Story teaser text",
+      "creationDate": "2024-12-25T12:00:00Z",
+      "modifiedDate": "2020-11-19T00:00:00Z",
+      "teaserImage": {
+        "_links": {
+          "url": {
+            "href": "https://i.postimg.cc/QMWnyr6X/image.png",
+            "templated": true,
+            "type": "image/jpeg"
+          }
+        },
+        "accessibilityText": "Image content description"
+      }
+    },
+    {
+      "id": "5",
+      "type": "weblink",
+      "headline": "Weblink headline",
+      "weblinkUrl": "https://www.thedailystar.net/",
+      "creationDate": "2020-11-18T00:00:00Z",
+      "modifiedDate": "2020-11-19T00:00:00Z",
+      "teaserImage": {
+        "_links": {
+          "url": {
+            "href": "https://i.postimg.cc/Nf3Xxqr8/image.png",
+            "templated": true,
+            "type": "image/jpeg"
+          }
+        },
+        "accessibilityText": "Image content description"
+      }
+    }
+  ]
+}

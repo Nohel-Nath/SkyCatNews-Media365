@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SkyCatNewsApp</string>
+    <string name="headline">Headline</string>
+    <string name="teaser_text">Teaser text</string>
+    <string name="_8m_ago">8m ago</string>
+    <string name="story_headline">Story Headline</string>
+    <string name="weblink_headline">Weblink Headline</string>
+</resources>
