@@ -13,8 +13,10 @@ The app has been developed with a focus on scalability and maintainability, ensu
 
 ## 🛠 Tech Stack
 
-Kotlin → programming language
-MVVM → design pattern with ViewModel & LiveData 
+Kotlin → programming language 
+
+MVVM → design pattern with ViewModel & LiveData  
+
 Retrofit → API calls
 
 
